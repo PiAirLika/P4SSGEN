@@ -14,4 +14,4 @@ It generates a list based on personal information input, such as names, birthdat
 No specific installation is required beyond a standard Python 3 setup. Ensure Python is properly installed on your system by running `python --version` or `python3 --version` in your terminal.
 
 ## 💻 Author
-piairlika
+piairlika 
